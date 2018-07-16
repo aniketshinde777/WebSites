@@ -61,10 +61,10 @@ a.navbar-brand {
 	color: #ffdc39!important;
 }
 .navbar-expand-lg .navbar-nav {
-    margin: 0 6em;
+    margin: 0 9em;
 }
 nav.navbar.navbar-expand-lg.navbar-light {
-    background-color: rgba(0, 0, 0, 0.72) !important;
+    /*background-color: rgba(0, 0, 0, 0.72) !important;*/
     padding: 0;
 }
 .navbar-light .navbar-nav .nav-link,
@@ -161,7 +161,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 /*-- //header --*/
 
 .banner {
-	background: url(../images/bg1.jpg)no-repeat 0px 0px;
+	background: url(../images/ex1.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -171,7 +171,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 	min-height: 800px;
 }
 .banner1 {
-	background: url(../images/bg1.jpg)no-repeat 0px 0px;
+	background: url(../images/bg12.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -880,7 +880,6 @@ ul.w3agile_footer_grid_list li {
 }
 
 ul.w3agile_footer_grid_list li:nth-child(1) {
-	margin-bottom: 1em;
 }
 
 ul.w3agile_footer_grid_list li a {
