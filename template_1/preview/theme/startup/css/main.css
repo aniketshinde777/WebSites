@@ -64,14 +64,14 @@ body {
     line-height: 1.625em;
     position: relative;
 }
-
+/*
 ol,
 ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-
+*/
 select {
     display: block;
 }
@@ -2324,8 +2324,21 @@ body.mobile-nav-active #mobile-nav-toggle {
     bottom: 0;
 }
 
+.top-space {
+    padding-top: 4%;
+}
+
+.spacing-form {
+    padding: 2%;
+}
+
 .banner-area {
     background: url(../img/header-bg.jpg) center;
+    background-size: cover;
+}
+
+.banner-area .corrosion {
+    background: url(../img/pipeline-corrosion.jpg) center;
     background-size: cover;
 }
 
