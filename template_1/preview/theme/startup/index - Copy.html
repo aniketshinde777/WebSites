@@ -644,6 +644,15 @@
         gtag('js', new Date());
 
         gtag('config', 'UA-23581568-13');
+
+        $( document ).ready(function() {
+        console.log( "ready!" );
+        $(document).keydown(function(event){
+            console.log("here");
+    console.log(event.key);
+});
+    }); 
+
     </script>
 </body>
 
