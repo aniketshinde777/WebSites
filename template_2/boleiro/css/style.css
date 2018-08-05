@@ -171,7 +171,7 @@ img {
 /* BG COLORS */
 
 .bg-color {
-    background: #485cc7;
+    background: #5cc037;
 }
 
 .bg-color-light {
@@ -405,7 +405,7 @@ img {
 }
 
 .search-box .inner form button[type="submit"]:hover {
-    color: #485cc7;
+    color: #5cc037;
 }
 
 .search-box .inner h5 {
@@ -489,7 +489,7 @@ img {
     font-size: 13px;
     position: relative;
     z-index: 4;
-    background: #485cc7;
+    background: #5cc037;
     color: #fff;
     padding: 0 60px;
 }
@@ -629,7 +629,7 @@ img {
 }
 
 .topbar .language ul li a:hover {
-    color: #485cc7;
+    color: #5cc037;
 }
 
 .topbar .language:hover ul {
@@ -716,7 +716,7 @@ img {
 
 .header .site-nav .nav-item .nav-link:hover {
     text-decoration: none;
-    color: #485cc7;
+    color: #5cc037;
 }
 
 .header .site-nav .nav-item .nav-link:before {
@@ -941,7 +941,7 @@ img {
 
 .header .site-nav .nav-item .dropdown li a:hover {
     text-decoration: none;
-    color: #485cc7;
+    color: #5cc037;
 }
 
 .header .site-nav .nav-item .dropdown li a:after {
@@ -1095,7 +1095,7 @@ img {
     line-height: 52px;
     font-weight: 700;
     color: rgba(255, 255, 255, 1);
-    background-color: #485cc7;
+    background-color: #5cc037;
     border-radius: 52px;
     box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.3) !important;
     box-sizing: border-box;
@@ -1172,7 +1172,7 @@ img {
     position: absolute;
     left: 0;
     top: 0;
-    background: #485cc7;
+    background: #5cc037;
     opacity: 0.8;
 }
 
@@ -1265,7 +1265,7 @@ main {
 .titles h6 {
     width: 100%;
     float: left;
-    color: #485cc7;
+    color: #5cc037;
     letter-spacing: 0;
     font-size: 11px;
     font-family: 'Fjalla One', sans-serif;
@@ -1274,7 +1274,7 @@ main {
 .titles h5 {
     width: 100%;
     float: left;
-    color: #485cc7;
+    color: #5cc037;
     letter-spacing: 2px;
     font-size: 13px;
     font-family: 'Fjalla One', sans-serif;
@@ -1318,7 +1318,7 @@ main {
 
 .titles .button-light:hover {
     background: #fff;
-    color: #485cc7;
+    color: #5cc037;
     text-decoration: none;
 }
 
@@ -1341,7 +1341,7 @@ main {
 
 .price-list .price-box.recommended {
     margin-top: -31px;
-    border-top: 5px solid #485cc7;
+    border-top: 5px solid #5cc037;
 }
 
 .price-list .price-box .price-header {
@@ -1361,7 +1361,7 @@ main {
 
 .price-list .price-box .price-header h5 {
     margin: 0;
-    color: #485cc7;
+    color: #5cc037;
     font-size: 12px;
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
@@ -1396,7 +1396,7 @@ main {
 }
 
 .price-list .price-box i {
-    color: #485cc7;
+    color: #5cc037;
 }
 
 .price-list .price-box ul {
@@ -1421,14 +1421,14 @@ main {
     line-height: 44px;
     display: inline-block;
     padding: 0 30px;
-    border: 2px solid #485cc7;
-    color: #485cc7;
+    border: 2px solid #5cc037;
+    color: #5cc037;
     font-weight: 600;
     border-radius: 46px;
 }
 
 .price-list .price-box a:hover {
-    background: #485cc7;
+    background: #5cc037;
     color: #fff;
     text-decoration: none;
 }
@@ -1471,7 +1471,7 @@ main {
 }
 
 .our-offices address small a {
-    color: #485cc7;
+    color: #5cc037;
     margin-top: 20px;
 }
 
@@ -1509,7 +1509,7 @@ main {
     display: block;
     font-size: 14px;
     font-family: 'Fjalla One', sans-serif;
-    color: #485cc7;
+    color: #5cc037;
 }
 
 .error-404 a:hover {
@@ -1568,7 +1568,7 @@ main {
 .side-image-content .inner h5 {
     width: 100%;
     float: left;
-    color: #485cc7;
+    color: #5cc037;
     letter-spacing: .2em;
     font-size: 13px;
     font-family: 'Fjalla One', sans-serif;
@@ -1607,14 +1607,14 @@ main {
     line-height: 44px;
     display: inline-block;
     padding: 0 30px;
-    border: 2px solid #485cc7;
-    color: #485cc7;
+    border: 2px solid #5cc037;
+    color: #5cc037;
     font-weight: 600;
     border-radius: 46px;
 }
 
 .side-image-content a:hover {
-    background: #485cc7;
+    background: #5cc037;
     color: #fff;
     text-decoration: none;
 }
@@ -1653,7 +1653,7 @@ main {
     width: 100%;
     display: block;
     font-size: 14px;
-    color: #485cc7;
+    color: #5cc037;
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -1748,14 +1748,14 @@ main {
     line-height: 40px;
     float: right;
     padding: 0 20px;
-    border: 2px solid #485cc7;
-    color: #485cc7;
+    border: 2px solid #5cc037;
+    color: #5cc037;
     font-weight: 600;
     border-radius: 42px;
 }
 
 .career .job-positions li a:hover {
-    background: #485cc7;
+    background: #5cc037;
     color: #fff;
     text-decoration: none;
 }
@@ -1907,7 +1907,7 @@ main {
 .showcases .showcase h6 {
     width: 100%;
     font-size: 14px;
-    color: #485cc7;
+    color: #5cc037;
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -2160,7 +2160,7 @@ main {
 }
 
 .works .isotope-filter li a.current {
-    color: #485cc7;
+    color: #5cc037;
 }
 
 .works figure {
@@ -2386,7 +2386,7 @@ main {
     position: absolute;
     left: -10px;
     bottom: 20px;
-    background: #485cc7;
+    background: #5cc037;
     color: #fff;
     padding: 4px 10px;
     font-weight: 700;
@@ -2417,7 +2417,7 @@ main {
     width: 100%;
     float: left;
     font-size: 11px;
-    color: #485cc7;
+    color: #5cc037;
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -2445,7 +2445,7 @@ main {
 .blog .blog-post .blog-content blockquote {
     width: 100%;
     float: left;
-    border-left: 4px solid #485cc7;
+    border-left: 4px solid #5cc037;
     margin-bottom: 40px;
     padding-left: 30px;
 }
@@ -2458,7 +2458,7 @@ main {
 }
 
 .blog .blog-post .blog-content blockquote h5 {
-    color: #485cc7;
+    color: #5cc037;
     font-size: 18px;
     font-weight: 700;
     margin-bottom: 0;
@@ -2521,7 +2521,7 @@ main {
 
 .blog .post-tags h6 {
     font-size: 15px;
-    color: #485cc7;
+    color: #5cc037;
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
 }
@@ -2609,7 +2609,7 @@ main {
 
 .blog .post-comment h6 {
     font-size: 15px;
-    color: #485cc7;
+    color: #5cc037;
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     margin-bottom: 20px;
