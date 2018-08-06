@@ -3151,6 +3151,16 @@ only screen and (max-device-width: 989px) {
 
 /* MOBILE RESPONSIVE FIXES */
 
+@media only screen and (max-width: 912px),
+only screen and (max-device-width: 912px) {
+.topbar .contact-bar li {
+    margin-right: 10px;
+        padding-right: 10px;
+        font-size: 82%;
+        line-height: 22px;
+    }
+}
+
 @media only screen and (max-width: 767px),
 only screen and (max-device-width: 767px) {
     .side-menu-open {
@@ -3173,7 +3183,7 @@ only screen and (max-device-width: 767px) {
     .topbar .contact-bar li {
         margin-right: 10px;
         padding-right: 10px;
-        font-size: 11px;
+        font-size:  82%;
     }
     .topbar .contact-bar li strong {
         display: none;
