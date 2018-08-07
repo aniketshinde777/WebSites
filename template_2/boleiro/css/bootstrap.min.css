@@ -184,7 +184,7 @@ a {
 }
 
 a:hover {
-    color: #0056b3;
+    color: rgb(102,204,153); color: -moz-linear-gradient(45deg,  rgba(102,204,153,1) 0%, rgba(108,205,148,1) 19%, rgba(136,209,125,1) 72%, rgba(146,211,117,1) 100%); color: -webkit-linear-gradient(45deg,  rgba(102,204,153,1) 0%,rgba(108,205,148,1) 19%,rgba(136,209,125,1) 72%,rgba(146,211,117,1) 100%); color: linear-gradient(45deg,  rgba(102,204,153,1) 0%,rgba(108,205,148,1) 19%,rgba(136,209,125,1) 72%,rgba(146,211,117,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66cc99', endColorstr='#92d375',GradientType=1 );
     text-decoration: underline
 }
 
