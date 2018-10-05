@@ -2,7 +2,7 @@
 
 @Author: Themezinho
 @URL: http://www.themezinho.net
- 
+
 This file contains the styling for the actual theme, this
 is the file you need to edit to change the look of the
 theme.
@@ -65,7 +65,7 @@ theme.
 	54.	TABLET RESPONSIVE FIXES
 	55.	MOBILE RESPONSIVE FIXES
 
-	
+
 
 */
 
@@ -723,7 +723,7 @@ img {
 
 .header .site-nav .nav-item .nav-link:hover {
     text-decoration: none;
-    color:  rgb(102,204,153); color: -moz-linear-gradient(45deg,  rgba(102,204,153,1) 0%, rgba(108,205,148,1) 19%, rgba(136,209,125,1) 72%, rgba(146,211,117,1) 100%); color: -webkit-linear-gradient(45deg,  rgba(102,204,153,1) 0%,rgba(108,205,148,1) 19%,rgba(136,209,125,1) 72%,rgba(146,211,117,1) 100%); color: linear-gradient(45deg,  rgba(102,204,153,1) 0%,rgba(108,205,148,1) 19%,rgba(136,209,125,1) 72%,rgba(146,211,117,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66cc99', endColorstr='#92d375',GradientType=1 );   
+    color:  rgb(102,204,153); color: -moz-linear-gradient(45deg,  rgba(102,204,153,1) 0%, rgba(108,205,148,1) 19%, rgba(136,209,125,1) 72%, rgba(146,211,117,1) 100%); color: -webkit-linear-gradient(45deg,  rgba(102,204,153,1) 0%,rgba(108,205,148,1) 19%,rgba(136,209,125,1) 72%,rgba(146,211,117,1) 100%); color: linear-gradient(45deg,  rgba(102,204,153,1) 0%,rgba(108,205,148,1) 19%,rgba(136,209,125,1) 72%,rgba(146,211,117,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66cc99', endColorstr='#92d375',GradientType=1 );
 }
 
 .header .site-nav .nav-item .nav-link:before {
@@ -1297,7 +1297,7 @@ main {
 }
 
 .titles p {
-    opacity: 0.6;
+    opacity: 1.6;
     line-height: 24px;
     font-weight: 300;
     margin-bottom: 0;
@@ -1831,7 +1831,7 @@ main {
     display: block;
     line-height: 24px;
     font-size: 13px;
-    opacity: 0.7;
+    opacity: 1.7;
     margin-bottom: 0;
 }
 
@@ -1924,7 +1924,7 @@ main {
     display: block;
     line-height: 20px;
     font-size: 13px;
-    opacity: 0.7;
+    opacity: 1.7;
     margin-bottom: 20px;
 }
 
@@ -3263,5 +3263,5 @@ only screen and (max-device-width: 767px) {
         padding-left: 20px;
         padding-right: 20px;
     }
-	
+
 }
