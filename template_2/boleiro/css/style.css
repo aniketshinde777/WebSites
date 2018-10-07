@@ -2020,7 +2020,6 @@ main {
 .testimonials img {
     width: 90px;
     display: inline-block;
-    border-radius: 50%;
     position: relative;
     z-index: 2;
     margin-bottom: 20px;
